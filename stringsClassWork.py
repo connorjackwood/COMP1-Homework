@@ -34,3 +34,4 @@ elif dobDay == "03" or "23":
     dayDisplay = "You were born on the",dobDay + ending3
 else:
     dayDisplay = "You were born on the",dobDay + ending2
+print("hello")
