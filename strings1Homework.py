@@ -46,7 +46,7 @@ else:
 
 yearDisplay = "in " + dobYear
 
-print (dayDisplay,monthDisplay,yearDisplay + ".") """
+print (dayDisplay,monthDisplay,yearDisplay + ".") 
 
 #Question5
 
@@ -97,4 +97,4 @@ monthDisplay = "of " + monthWord
 
 yearDisplay = "in " + dobYear
 
-print (dayDisplay,monthDisplay,yearDisplay + ".")
+print (dayDisplay,monthDisplay,yearDisplay + ".") """
